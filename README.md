@@ -6,16 +6,27 @@
 
 ### Используемые команды
 git clone
+
 git pull
+
 git log 
+
 git merge 
+
 git status
+
 git add .
+
 git commit -m "Name"
+
 git branch -d branch1
+
 git reset --hard HEAD^
+
 git checkout 
+
 git push origin report
+
 
 ### Ход работы
 Создаем копию в личное хранилище из https://github.com/Kurtyanik/LR6/ (Fork)
